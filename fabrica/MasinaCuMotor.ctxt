@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MasinaCuMotor
+comment1.params=
+comment1.target=MasinaCuMotor()
+comment2.params=id\ culoare\ pret\ cRezervor
+comment2.target=MasinaCuMotor(int,\ java.lang.String,\ double,\ double)
+comment3.params=
+comment3.target=double\ getCRezervor()
+comment4.params=cRezervor
+comment4.target=void\ setCRezervor(double)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=o
+comment6.target=boolean\ equals(java.lang.Object)
+numComments=7

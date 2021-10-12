@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MasinaElectrica
+comment1.params=
+comment1.target=MasinaElectrica()
+comment2.params=id\ culoare\ pret\ range
+comment2.target=MasinaElectrica(int,\ java.lang.String,\ double,\ int)
+comment3.params=
+comment3.target=int\ getRande()
+comment4.params=range
+comment4.target=void\ setRange(int)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=o
+comment6.target=boolean\ equals(java.lang.Object)
+numComments=7
