@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Externa
+comment1.params=
+comment1.target=Externa()
+comment2.params=pret\ nrPasageri\ destinatia\ escala
+comment2.target=Externa(double,\ int,\ java.lang.String,\ java.lang.String)
+comment3.params=pret\ nrPasageri\ destinatia\ escala\ tara
+comment3.target=Externa(double,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getTara()
+comment5.params=tara
+comment5.target=void\ setDurata(java.lang.String)
+numComments=6

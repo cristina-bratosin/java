@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Interna
+comment1.params=
+comment1.target=Interna()
+comment2.params=pret\ nrPasageri\ destinatia\ escala
+comment2.target=Interna(double,\ int,\ java.lang.String,\ java.lang.String)
+comment3.params=pret\ nrPasageri\ destinatia\ escala\ durata
+comment3.target=Interna(double,\ int,\ java.lang.String,\ java.lang.String,\ int)
+comment4.params=
+comment4.target=int\ getDurata()
+comment5.params=durata
+comment5.target=void\ setDurata(int)
+numComments=6

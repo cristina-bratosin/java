@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Aeroport
+comment1.params=
+comment1.target=Aeroport()
+comment2.params=
+comment2.target=Aeroport\ getInstance()
+comment3.params=
+comment3.target=java.util.List\ getCurse()
+comment4.params=tip\ pret\ nrPasageri\ destinatie\ escala\ durata_tara
+comment4.target=void\ adaugaCursa(java.lang.String,\ double,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment5.params=tip
+comment5.target=void\ afisare(java.lang.String)
+comment6.params=idCursa
+comment6.target=void\ aflaTip(java.lang.Integer)
+comment7.params=idCursa
+comment7.target=void\ stergeCursa(java.lang.Integer)
+numComments=8
